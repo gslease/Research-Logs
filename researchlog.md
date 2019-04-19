@@ -17,3 +17,18 @@ The Pierce hacker site is clearly directed at students who wish to gain a better
 
 ## What I learned
 This week, I have gained a general understanding of how this class is expected to go. I have also gained a better understanding as to what technical writing really is. For example, until this week, I did not know that simply writing step-by-step instructions fell into the realm of technical writing.
+
+# Research Log Week 2
+
+## Instruction Composition 
+I think the composition of the instruction set went well overall. I chose to take slightly more text-heavy and image-light approach to the assignment compared to many others. I think that it worked relatively well for me, by there were certainly areas where I could improve to make the instructions a little for universal in terms of their usefulness and appeal to a wider audience.
+
+## Audience 
+In my perception, the audience for this piece would be people who are interested in construction, engineering, or just Lego in general. Due to this, I attempted to mimic some aspects of typical lego instructions (e.g. the box listing the required pieces at the beginning of each section), while also making it “my own” so to speak.
+
+## Presentation Format 
+For this assignment, I chose to use a pdf file for my instruction set. Overall, I think this was a good choice; the document came out clean, concise, and organized. The rough draft of my instructions can be found , and the final draft is [here](https://app.luminpdf.com/viewer/fmvajHfdJS3bLgSz3/share?sk=b506b5f7-16de-4a0e-8e7a-1274c5bbc9cf). That being said however, my organization was somewhat lacking. For example, I received some criticism on my choice to place the images at the end of the instructions rather than the beginning.
+
+## What I Learned 
+I learned the importance of writing to my audience rather than myself. This will help me improve my ability to explain concepts and ideas going forward, which is one of my personal goals for the class.
+
