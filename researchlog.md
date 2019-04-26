@@ -32,3 +32,13 @@ For this assignment, I chose to use a pdf file for my instruction set. Overall, 
 ## What I Learned 
 I learned the importance of writing to my audience rather than myself. This will help me improve my ability to explain concepts and ideas going forward, which is one of my personal goals for the class.
 
+# Research Log Week 3
+
+## Collaborative Composition
+Working in a group proved to be a challenge at times, but we stil managed to finish everything we needed to. We had some conflicting opinions and ideas, but we were able to work out our differing views and complete our part of the prokect fully and on time. I cannot in all honesty say I learned anything in this process, simply because none of it was actually new to me. I have worked with groups many times in the past, so this is just another example of what is essentially more of the same.
+
+## The Project and the Survey
+The audience for this project is a wide vareity of students with varying needs and skills. The purpose of the project is to be able to assist as many people as possible in increasing their information competancy. The reason for presenting this prject as a website is probably to encourage more people to make use of it, and increase the ease of access to the tutorials.
+
+## What I Learned
+I cannot, in all honesty, think of anything new that I learned this week. Rather, this week helped me perfect my skills in constructive group collaberation, as well as comprimise.
