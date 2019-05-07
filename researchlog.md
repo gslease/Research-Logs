@@ -42,3 +42,11 @@ The audience for this project is a wide vareity of students with varying needs a
 
 ## What I Learned
 I cannot, in all honesty, think of anything new that I learned this week. Rather, this week helped me perfect my skills in constructive group collaberation, as well as comprimise.
+
+# Research Log Week 4
+
+## Assignment
+The majority of this week's research log was dedicated to finding sources for information regarding how to write an analytical report.
+
+## What I Learned
+This week, I learned how to use Google Forms. This was not something I had expected to learn in this class, but it may be helpful to know in the future if I need to determine what a given group's general opinion about an issue is.
