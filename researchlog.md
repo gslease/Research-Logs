@@ -50,3 +50,17 @@ The majority of this week's research log was dedicated to finding sources for in
 
 ## What I Learned
 This week, I learned how to use Google Forms. This was not something I had expected to learn in this class, but it may be helpful to know in the future if I need to determine what a given group's general opinion about an issue is.
+
+# Research Log Week 5
+
+## My Approach to the Assignment
+I chose to work with Greg Joyce on this project, and we did our best to evenly divide up the workload. It was a challenge to get the formatiing to both look good, and be functional, but we were able to accomplishthese goals.
+
+## Feedback
+We recieved positive comments on our formatting, style, organization, and use of graphics. We did not really recieve any suggestions for improvement, but after seeing others' reports, I came up with some ideas to make ours a but more visually appealing.
+
+## Finalizing the Report
+From now until Monday, we will just be working on finishing our written parts of the analytical report.
+
+## What I Learned
+This week, I learned more about how I can best work collaboratively, and how I can contribute to group projects. I also learned a little bit more about formatting documents in Google Docs, which will be helpful as we move forward in the class.
