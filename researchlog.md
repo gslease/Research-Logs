@@ -64,3 +64,14 @@ From now until Monday, we will just be working on finishing our written parts of
 
 ## What I Learned
 This week, I learned more about how I can best work collaboratively, and how I can contribute to group projects. I also learned a little bit more about formatting documents in Google Docs, which will be helpful as we move forward in the class.
+
+# Research Log Week 8
+
+## Thoughts on the OER Textbook Project
+This seems like a really good idea for a class like this which differs so heavily from a typical English class. If I were to do this project, I would probably want to write a bit on how to choose wording that it accessible to as wide of an audience as possible.
+
+## Thoughts on the PierceHacker Project
+I like the idea of being able to do more work on this project, especially since there are no assigned groups this time. I will be writing a guide on WAMAP for this project.
+
+## Thoughts on the Self-Designed Project
+I like the idea of designing one's own project because it allows for a great deal of freedom and personal growth. Unfortunately, I have no ideas on what I would do given the oppurtunity.
